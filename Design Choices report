@@ -1,0 +1,3 @@
+When I created the program, I organized it in a way that made sense and was easy to work with. I used different types of animals like hyenas, lions, tigers, and bears, and made sure they all shared common traits. This made it easier to write and understand the code. For storing information about the animals, I used lists and counts to keep track of how many of each type there were.
+
+To get information about the animals, I made the program read details from one file and write a summary to another file. This way, I could keep things organized and separate. I made sure to use simple commands to read and write the files, so everything went smoothly.
